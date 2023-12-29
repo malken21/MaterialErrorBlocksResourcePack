@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "back": "minecraft:block/mat_error",
+    "front": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error"
+  }
+}

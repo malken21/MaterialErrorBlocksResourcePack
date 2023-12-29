@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_campfire",
+  "textures": {
+    "fire": "minecraft:block/mat_error",
+    "lit_log": "minecraft:block/mat_error"
+  }
+}

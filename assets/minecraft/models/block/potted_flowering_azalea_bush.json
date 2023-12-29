@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_potted_azalea_bush",
+  "textures": {
+    "plant": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error",
+    "top": "minecraft:block/mat_error"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_sculk_shrieker",
+  "textures": {
+    "bottom": "minecraft:block/mat_error",
+    "inner_top": "minecraft:block/mat_error",
+    "particle": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error",
+    "top": "minecraft:block/mat_error"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_full",
+  "textures": {
+    "bottom": "minecraft:block/mat_error",
+    "content": "minecraft:block/mat_error",
+    "inside": "minecraft:block/mat_error",
+    "particle": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error",
+    "top": "minecraft:block/mat_error"
+  }
+}

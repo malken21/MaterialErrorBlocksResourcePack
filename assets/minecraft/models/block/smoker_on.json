@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "minecraft:block/mat_error",
+    "front": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error",
+    "top": "minecraft:block/mat_error"
+  }
+}

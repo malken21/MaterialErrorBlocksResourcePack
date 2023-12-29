@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "end": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error"
+  }
+}

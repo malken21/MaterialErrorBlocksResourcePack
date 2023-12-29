@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_piston",
+  "textures": {
+    "bottom": "minecraft:block/mat_error",
+    "platform": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error"
+  }
+}

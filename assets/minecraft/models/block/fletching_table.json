@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/mat_error",
+    "east": "minecraft:block/mat_error",
+    "north": "minecraft:block/mat_error",
+    "particle": "minecraft:block/mat_error",
+    "south": "minecraft:block/mat_error",
+    "up": "minecraft:block/mat_error",
+    "west": "minecraft:block/mat_error"
+  }
+}

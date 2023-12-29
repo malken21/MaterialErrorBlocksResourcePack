@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stem_fruit",
+  "textures": {
+    "stem": "minecraft:block/mat_error",
+    "upperstem": "minecraft:block/mat_error"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "block/cube",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        135,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  },
+  "textures": {
+    "particle": "minecraft:block/mat_error",
+    "down": "minecraft:block/mat_error",
+    "up": "minecraft:block/mat_error",
+    "north": "minecraft:block/mat_error",
+    "east": "minecraft:block/mat_error",
+    "south": "minecraft:block/mat_error",
+    "west": "minecraft:block/mat_error"
+  }
+}

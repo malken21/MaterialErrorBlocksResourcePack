@@ -1,0 +1,9 @@
+{
+  "parent": "block/crafter_triggered",
+  "textures": {
+    "top": "minecraft:block/mat_error",
+    "north": "minecraft:block/mat_error",
+    "east": "minecraft:block/mat_error",
+    "west": "minecraft:block/mat_error"
+  }
+}

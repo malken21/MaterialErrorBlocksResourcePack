@@ -1,0 +1,43 @@
+{
+  "textures": {
+    "particle": "minecraft:block/mat_error",
+    "bottom": "minecraft:block/mat_error",
+    "top": "minecraft:block/mat_error",
+    "side": "minecraft:block/mat_error"
+  },
+  "elements": [
+    {
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        8,
+        15
+      ],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "north": {
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#side"
+        },
+        "east": {
+          "texture": "#side"
+        }
+      }
+    }
+  ]
+}
